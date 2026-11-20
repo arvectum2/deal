@@ -58,3 +58,8 @@ Gate: изолированные клиенты, повторяемые внед
 
 Метрики: заявки, квалифицированные поставщики, отклики, сопоставимость, время первого КП, реализованная экономия, сделки, выручка на сделку, затраты, повторные клиенты.
 Правило: короткие feature-ветки, PR в main; никаких больших переписываний платформы.
+
+
+## Spec Kit — candidate linkage (2026-11-20)
+
+[Specification](../specs/001-commercial-hypothesis-traceability/spec.md) · [Plan](../specs/001-commercial-hypothesis-traceability/plan.md) · [Integration tasks](../specs/001-commercial-hypothesis-traceability/tasks.md). Original source, states and authority unchanged; integration tasks are not a competing product roadmap.
